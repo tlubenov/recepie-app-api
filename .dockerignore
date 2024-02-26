@@ -1,0 +1,19 @@
+# Git
+.venv
+.git
+.gitignore
+
+# Docker
+.docker
+
+# Python
+app/__pycache__
+app/*.pyc
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints
+
+
